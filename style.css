@@ -1,0 +1,9 @@
+#main{
+    border: 2px solid pink;
+    display: flex;
+    flex-direction: column;
+}
+.card{
+    border: 3px black solid;
+    text-align: center;
+}
